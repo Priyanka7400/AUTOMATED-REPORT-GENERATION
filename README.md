@@ -12,3 +12,6 @@ CSV file handling
 pdf_repot.py → Python script to generate PDF
 sample_data.csv → Input data file
 student_report.pdf → Generated output PDF
+
+## output
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/96a323d1-fb75-450b-be92-38ec485571c7" />
